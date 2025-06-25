@@ -1,5 +1,0 @@
-# Hello WORLD
-1. I am ready
-2. I am running
-# HELLO WORLD
-
